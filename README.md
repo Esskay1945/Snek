@@ -171,7 +171,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Built with modern web technologies
 - Special thanks to the web development community
 
-Project Link: 
+Project Link: https://snnekk.netlify.app/
 
 ⭐ Star this repo if you enjoyed playing SNEK! ⭐
 
